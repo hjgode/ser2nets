@@ -1,3 +1,8 @@
+Working copy of ser2net found on internet. This version compiles and supports multiple connections to the same serial port!
+The original code did not compile due to errors in makefiles.
+
+######COPY######
+
 This is ser2net, a program for allowing network connections to serial
 ports.  See the man page for information about using the program.
 
